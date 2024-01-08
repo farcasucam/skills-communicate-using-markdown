@@ -1,11 +1,3 @@
-# COPIA
-
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-
 
 <header>
 
@@ -16,7 +8,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+# Communicate using Markdown PACO VERSION
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
